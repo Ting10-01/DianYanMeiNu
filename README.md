@@ -6,5 +6,5 @@
 &emsp;&emsp;過於靠近老師會被監禁在原地一段時間後才可行動。
 
 ### 如何使用
-1. 從Release中將 WIN.zip(for Windows) / MAC.app.zip(for macOS) 下載下來並解壓縮
+1. 從Release中將 WIN.zip(for Windows)下載下來並解壓縮
 2. 點擊 WIN/WIN/DYMN.exe(for Windows)即可開啟
